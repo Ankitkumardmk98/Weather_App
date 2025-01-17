@@ -16,8 +16,10 @@ const red = Color.fromRGBO(178, 27, 27, 1);
 
 //Gradients
 List<Color> blueGradientColors = [
+  Color.fromRGBO(122, 196, 242, 1),
   Color.fromRGBO(135, 206, 250, 1),
   Color.fromRGBO(70, 130, 180, 1),
+  Color.fromRGBO(54, 109, 154, 1),
   Color.fromRGBO(0, 105, 148, 1),
   Color.fromRGBO(0, 77, 110, 1),
   Color.fromRGBO(0, 38, 56, 1),
