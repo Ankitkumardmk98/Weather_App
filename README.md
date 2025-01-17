@@ -9,6 +9,11 @@ A weather forecasting app that provides current weather information based on cit
 - **Dynamic Weather Icons:** Cloud images and icons change according to the weather conditions.
 - **UI:** Beautiful gradient backgrounds and smooth UI design.
 
+## Download
+
+[Download APK](https://github.com/Ankitkumardmk98/Weather_App/release/app-release.apk)
+
+
 ## Screenshots
 
 <div style="display: flex; justify-content: space-around;">
