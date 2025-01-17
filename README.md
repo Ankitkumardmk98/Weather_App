@@ -45,15 +45,15 @@ A weather forecasting app that provides current weather information based on cit
     Get your API key.
     Replace the weatherAppAPIKey variable in the app with your API key.
 
-5. Usage
+5. Usage:
     -Enter a city name in the search bar at the top of the screen.
     -View the current temperature, humidity, wind speed, and weather condition.
     -The cloud image will change dynamically based on the weather description.
-6. Dependencies
+6. Dependencies:
     ```bash
     weather: A package to fetch weather data.
     flutter: Flutter framework for building the app.
     ```
-7. Known Issues
+7. Known Issues:
     The app may not display data if the API key is invalid or expired.
     The app may take time to load the weather data depending on your internet connection.
