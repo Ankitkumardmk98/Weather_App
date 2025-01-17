@@ -41,9 +41,9 @@ A weather forecasting app that provides current weather information based on cit
 
 4. Set up your OpenWeather API key:
 
-Go to OpenWeather and create an account.
-Get your API key.
-Replace the weatherAppAPIKey variable in the app with your API key.
+    Go to OpenWeather and create an account.
+    Get your API key.
+    Replace the weatherAppAPIKey variable in the app with your API key.
 
 5. Usage
     -Enter a city name in the search bar at the top of the screen.
