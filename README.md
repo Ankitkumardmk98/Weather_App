@@ -11,7 +11,7 @@ A weather forecasting app that provides current weather information based on cit
 
 ## Download
 
-[Download APK](https://github.com/Ankitkumardmk98/Weather_App/release/app-release.apk)
+[Download APK](https://github.com/Ankitkumardmk98/Weather_App/blob/master/release/app-release.apk)
 
 
 ## Screenshots
