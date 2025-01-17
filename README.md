@@ -11,8 +11,11 @@ A weather forecasting app that provides current weather information based on cit
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshots/main_ui_ss.png)  
-![Screenshot 2](assets/screenshots/search_ui_ss.png)
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/screenshots/main_ui_ss.png" alt="Screenshot 1" width="300">
+  <img src="assets/screenshots/search_ui_ss.png" alt="Screenshot 2" width="300">
+</div>
+
 
 ## Installation
 
@@ -47,9 +50,10 @@ A weather forecasting app that provides current weather information based on cit
 
 5. Usage:
 
-    -Enter a city name in the search bar at the top of the screen.
-    -View the current temperature, humidity, wind speed, and weather condition.
-    -The cloud image will change dynamically based on the weather description.
+   - Enter a city name in the search bar at the top of the screen.
+   - View the current temperature, humidity, wind speed, and weather condition.
+   - The cloud image will change dynamically based on the weather description.
+
 6. Dependencies:
     ```bash
     weather: A package to fetch weather data.
@@ -57,5 +61,5 @@ A weather forecasting app that provides current weather information based on cit
     ```
 7. Known Issues:
 
-    The app may not display data if the API key is invalid or expired.
-    The app may take time to load the weather data depending on your internet connection.
+   - The app may not display data if the API key is invalid, expired, or missing.
+   - Weather data may take time to load depending on the internet connection speed.
