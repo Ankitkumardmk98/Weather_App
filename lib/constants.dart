@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 //Variables
 String cityName = "New Delhi";
 String imagePath = "assets/images/clouds.png";
-const weatherAppAPIKey = '0344ca6fb7d322580837c3b7d50440bf';
+const weatherAppAPIKey = '';
 
 //Colors Constants
 const bgColor = Color.fromRGBO(0, 105, 148, 1);
